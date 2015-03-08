@@ -1,0 +1,23 @@
+{
+  "name": "adventure-iojs-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "iojs-adventure-1": "runner.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tom",
+  "license": "ISC",
+  "dependencies": {
+    "adventure": "^2.10.0",
+    "adventure-verify": "^2.2.0",
+    "babel": "^4.7.3",
+    "jsdom": "^4.0.2",
+    "msee": "^0.1.1",
+    "request": "^2.53.0"
+  }
+}
