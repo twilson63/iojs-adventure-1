@@ -11,11 +11,11 @@ the following:
 * domify
 * module_exports
 * browserify 
-* insert-css
-* hyperscript
 * virtual-dom
+* virtual-hyperscript
 * immutable_js
 * request_js 
+//* insert-css
 
 ## Usage
 

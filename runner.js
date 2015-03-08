@@ -13,14 +13,12 @@ var problems = [
   'domify',
   'module_exports',
   'browserify', 
-  'insert-css',
-  'hyperscript',
   'virtual-dom',
+  'virtual-hyperscript',
   'immutable_js',
-  'request_js'
-
-  
-
+  'request_js',
+  'insert-css',
+  'bragging-rights'
 ];
 problems.forEach(function(problem){
   shop.add(problem, function() { 

@@ -47,3 +47,4 @@ exports.verify = verify(function(args, t) {
     setTimeout(function() { process.exit(0); }, 50);
   });
 });
+
